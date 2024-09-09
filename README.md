@@ -4,21 +4,21 @@ An app to grind less, performance better, with a set of specialized AI, like sum
 
 Learning and show purporse.
 
-You are free to use and modify this :
+You are free to use and modify this :p
 
 ## Components
 
-`./apis`: The API code, written in Rust and Actix-Web
-    [`nervio-limiter`](https://github.com/JeanVydes/nervio-limiter) for rate limit (written by me)
-    `postgres` for db
-    `actix-web` as framework
-    `google` as auth method
+* `./apis`: The API code, written in Rust and Actix-Web
+    * [`nervio-limiter`](https://github.com/JeanVydes/nervio-limiter) for rate limit (written by me)
+    * `postgres` for db
+    * `actix-web` as framework
+    * `google` as auth method
 
-`./grindless`: The client, written in NextJS.
-    `shadcn` for components
-    `axios` for api requests
-    `tailwind` for styling
-    `google` as auth method
+* `./grindless`: The client, written in NextJS.
+    * `shadcn` for components
+    * `axios` for api requests
+    * `tailwind` for styling
+    * `google` as auth method
 
 ## Install
 
@@ -53,3 +53,22 @@ ANTHROPIC_API_KEYS=your_keys
 OPENAI_KEYS=your_keys
 OPENAI_BASE_URL=https://api.openai.com/v1/
 ```
+
+## Screenshots
+
+Landing Page
+
+### Landing Page
+
+![landing](https://github.com/JeanVydes/grindless/blob/main/images/landing-desktop.png?raw=true)
+![landing](https://github.com/JeanVydes/grindless/blob/main/images/landing-phone.png?raw=true)
+
+### Launchpad
+
+![launch](https://github.com/JeanVydes/grindless/blob/main/images/launchpad-desktop.png?raw=true)
+![launch](https://github.com/JeanVydes/grindless/blob/main/images/launchpad-phone.png?raw=true)
+
+### Summary Service
+
+![ss](https://github.com/JeanVydes/grindless/blob/main/images/summary-desktop.png?raw=true)
+![ss](https://github.com/JeanVydes/grindless/blob/main/images/summary-phone.png?raw=true)
