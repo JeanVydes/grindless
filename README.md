@@ -56,19 +56,30 @@ OPENAI_BASE_URL=https://api.openai.com/v1/
 
 ## Screenshots
 
-Landing Page
-
 ### Landing Page
 
-![landing](https://github.com/JeanVydes/grindless/blob/main/images/landing-desktop.png?raw=true)
-![landing](https://github.com/JeanVydes/grindless/blob/main/images/landing-phone.png?raw=true)
+<img src="https://github.com/JeanVydes/grindless/blob/main/images/landing-desktop.png?raw=true" style="width:100%" />
+
+<p style="text-align:center;">
+<img src="https://github.com/JeanVydes/grindless/blob/main/images/landing-phone.png?raw=true" style="width:50%" />
+</p>
 
 ### Launchpad
 
-![launch](https://github.com/JeanVydes/grindless/blob/main/images/launchpad-desktop.png?raw=true)
-![launch](https://github.com/JeanVydes/grindless/blob/main/images/launchpad-phone.png?raw=true)
+<img src="https://github.com/JeanVydes/grindless/blob/main/images/launchpad-desktop.png?raw=true" style="width:100%" />
+
+<p style="text-align:center;">
+<img src="https://github.com/JeanVydes/grindless/blob/main/images/launchpad-phone.png?raw=true" style="width:50%" />
+</p>
 
 ### Summary Service
 
-![ss](https://github.com/JeanVydes/grindless/blob/main/images/summary-desktop.png?raw=true)
-![ss](https://github.com/JeanVydes/grindless/blob/main/images/summary-phone.png?raw=true)
+<img src="https://github.com/JeanVydes/grindless/blob/main/images/summary-desktop.png?raw=true" style="width:100%" />
+
+<p style="text-align:center;">
+<img src="https://github.com/JeanVydes/grindless/blob/main/images/summary-phone.png?raw=true" style="width:50%" />
+</p>
+
+## Author
+
+* [Jean Vides](https://github.com/JeanVydes) (jean@nervio.us)
