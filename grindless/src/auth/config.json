@@ -1,0 +1,11 @@
+{
+    "google_client_id": "855441177431-biuuv9r5fjbkhrisp94rb1ejecjl7sot.apps.googleusercontent.com",
+    "scopes": [
+        "https://www.googleapis.com/auth/userinfo.email",
+        "https://www.googleapis.com/auth/userinfo.profile"
+    ],
+    "google_redirect_uris": [
+        "https://grindless.nervio.us/oauth/google/callback",
+        "http://localhost:3000/oauth/google/callback"
+    ]
+}

@@ -1,0 +1,21 @@
+[package]
+name = "grindless-core-api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+grindless-core = { path = "../grindless-core" }
+nervio-limiter = { path = "../nervio-limiter", features = ["actix-web"] }
+actix-cors = "0.7.0"
+actix-web = "4.9.0"
+tokio = "1.40.0"
+sea-orm = "1.0.1"
+jsonwebtoken = "9"
+reqwest = { version = "0.12.7",  features = ["json"] }
+dotenvy = "0.15.7"
+log = "0.4.22"
+serde = "1.0.209"
+chrono = "0.4.38"
+anthropic-sdk = "0.1.5"
+serde_json = "1.0.127"
+openai = "1.0.0-alpha.16"

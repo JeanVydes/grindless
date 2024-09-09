@@ -1,0 +1,7 @@
+{
+    "production": false,
+    "client_domain": "grindless.nervio.us",
+    "api_domain": "grindless-api.nervio.us",
+    "dev_client_domain": "localhost:3000",
+    "dev_api_domain": "localhost:8080"
+}

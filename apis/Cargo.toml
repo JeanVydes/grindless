@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "grindless-core", # Core Library
+    "grindless-core-api", # Core API
+    "nervio-limiter",
+]
